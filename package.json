@@ -1,0 +1,25 @@
+{
+  "name": "izk-file-metadata-microservice",
+  "version": "0.0.1",
+  "description": "freeCodeCamp: Apis and Microservices Projects - File Metadata Microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "formidable": "^1.2.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/izk-file-metadata-microservice"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
